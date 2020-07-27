@@ -1,0 +1,11 @@
+<style scoped>
+#warning{
+    color:red;
+    font-size: 2em;
+    font-style: bold;
+}
+#ko{
+    width: 600px;
+    height: 400px;
+}
+</style>
